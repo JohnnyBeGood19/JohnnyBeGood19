@@ -1,12 +1,10 @@
 ![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm John Marco Tolentino</h1>
-<h3 align="center">A passionate FullStack Developer from Italy!</h3>
+<h3 align="center">A Passionate FullStack Developer from Italy</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnybegood19&label=Profile%20views&color=0e75b6&style=flat" alt="johnnybegood19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnnybegood19" alt="johnnybegood19" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, Python, Vue, React, Node.js and Nuxt**
 
@@ -14,7 +12,11 @@
 
 - 📫 How to reach me **john.marco.tolentino@gmail.com**
 
-- ⚡ Fun fact **I think i am Funny**
+- 🥊 Boxing Sport **State of Mind**
+
+- 🧑‍🍳 Sometimes **I cook** for my friends.
+
+- ⚡ Fun fact **I think i'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnybegood19&show_icons=true&locale=en" alt="johnnybegood19" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnybegood19&" alt="johnnybegood19" /></p>
