@@ -19,7 +19,8 @@
 
 - ⚡ Fun fact **I think i'm Funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/johnmarcotolentino/" target="https://www.linkedin.com/in/johnmarcotolentino/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john marco tolentino" height="30" width="40" /></a>
 <a href="https://instagram.com/johnmarco.things" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="johnmarco.things" height="30" width="40" /></a>
