@@ -1,14 +1,17 @@
-
-<h1 align="center">Hello World 👋, I'm John Marco Tolentino</h1>
-<h3 align="center">A Passionate FullStack Developer from Italy</h3>
+ # 👋, I'm John Marco Tolentino.
+<h3 align="center">Learner || Coder || Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
+#### 🧑🏽‍💻 &nbsp;&nbsp; About me
 
 - 🌱 I’m currently learning **JavaScript, Python, Vue, React, Node.js and Nuxt**
 
 - 💬 Ask me about **HTML, CSS, SASS, Tailwind, BootStrap and JavaScript**
 
 - 📫 How to reach me **john.marco.tolentino@gmail.com**
+- 
+#### 🧡 &nbsp;&nbsp;My passions
 
 - 🥊 Boxing Sport **State of Mind**
 
